@@ -1,0 +1,1 @@
+web: gunicorn https://priyanshugupta.herokuapp.com/.wsgi --log-file -
